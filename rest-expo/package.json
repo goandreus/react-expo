@@ -1,0 +1,15 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^30.0.0",
+    "firebase": "^5.3.1",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-elements": "1.0.0-beta5",
+    "react-native-picker-select": "^4.2.0",
+    "react-native-simple-toast": "^0.0.8",
+    "react-navigation": "^3.0.4",
+    "tcomb-form-native": "^0.6.13"
+  }
+}

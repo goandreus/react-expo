@@ -1,0 +1,2 @@
+INSTALAR DEPENDENCIAS
+    yarn add tcomb-form-native react-native-elements@beta firebase react-navigation react-native-simple-toast --save
